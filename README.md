@@ -3,6 +3,15 @@
 My name is Viencent and I'm a computer science student at [Udayana University](https://www.unud.ac.id/).  
 I'm currently learning about DevOps, Front-End Web, and Back-End at [Dicoding Academy](https://www.dicoding.com/).
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Viencent27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Viencent27&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 <!--
 **Viencent27/Viencent27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
