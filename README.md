@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Viencent and I'm a computer science student at [Udayana University](https://www.unud.ac.id/).  
-I'm currently learning about DevOps, Front-End Web, and Back-End at [Dicoding Academy](https://www.dicoding.com/).
+I'm currently learning about Machine Learning at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning).
 
 ### Github Statistic
 <p align="left">
